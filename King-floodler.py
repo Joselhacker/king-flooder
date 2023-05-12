@@ -1,8 +1,5 @@
 #!/system/bin/python
-#king-flooder 2.0 27-06-2017 (1:42)
-#Tool for UDP Flood
-#Authorized by DedSecTL
-#AndroSec1337 Cyber Team
+#k
 import socket, os, random, time
 
 # Color
