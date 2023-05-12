@@ -1,5 +1,5 @@
 #!/system/bin/python
-#k
+#
 import socket, os, random, time
 
 # Color
